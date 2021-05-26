@@ -1,0 +1,1 @@
+# SarkiOtomasyonu-GirisSeviyesiSqLite-PyQt5
